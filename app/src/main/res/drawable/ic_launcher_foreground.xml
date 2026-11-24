@@ -1,0 +1,57 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Continuity Gestures Material 3 air-wave arcs (optically centered in 66dp Wear OS safe circle) -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M37.5,34A21.5,21.5 0,0 1,70.5 34"
+        android:strokeColor="#FF00ACC1"
+        android:strokeLineCap="round"
+        android:strokeWidth="4.2" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M43.8,40A13.5,13.5 0,0 1,64.2 40"
+        android:strokeColor="#FF00C853"
+        android:strokeLineCap="round"
+        android:strokeWidth="4.2" />
+
+    <!-- Bold filled Material 3 rounded wireless mouse silhouette -->
+    <path android:pathData="M54,44.5C44.8,44.5 38.5,50.8 38.5,60V65C38.5,74.2 44.8,80.5 54,80.5C63.2,80.5 69.5,74.2 69.5,65V60C69.5,50.8 63.2,44.5 54,44.5Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:endX="66"
+                android:endY="80.5"
+                android:startX="42"
+                android:startY="44.5"
+                android:type="linear">
+                <item
+                    android:color="#FF00C853"
+                    android:offset="0.0" />
+                <item
+                    android:color="#FF00A859"
+                    android:offset="0.52" />
+                <item
+                    android:color="#FF00897B"
+                    android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Subtle Material button-divider seam -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M40.2,60.5H67.8"
+        android:strokeAlpha="0.34"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineCap="round"
+        android:strokeWidth="1.8" />
+
+    <!-- Crisp pure-white tactile scroll wheel pill -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,50A2.8,2.8 0,0 1,56.8 52.8V57.7A2.8,2.8 0,0 1,54 60.5A2.8,2.8 0,0 1,51.2 57.7V52.8A2.8,2.8 0,0 1,54 50Z" />
+</vector>

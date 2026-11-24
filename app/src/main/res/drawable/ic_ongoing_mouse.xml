@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Continuity signal arc -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M8.5,5.2A5.5,5.5 0,0 1,15.5 5.2"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineCap="round"
+        android:strokeWidth="1.7" />
+    <!-- Material 3 rounded mouse body -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M12,7.8C8.9,7.8 7,9.9 7,12.9V15.9C7,18.9 8.9,21 12,21C15.1,21 17,18.9 17,15.9V12.9C17,9.9 15.1,7.8 12,7.8Z"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineCap="round"
+        android:strokeWidth="1.9" />
+    <!-- Scroll wheel pill -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M12,10.4A1.1,1.1 0,0 1,13.1 11.5V13.8A1.1,1.1 0,0 1,12 14.9A1.1,1.1 0,0 1,10.9 13.8V11.5A1.1,1.1 0,0 1,12 10.4Z" />
+</vector>

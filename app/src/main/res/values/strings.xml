@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Continuity Gestures</string>
+    <string name="notification_channel_name">Continuity Gestures Connection</string>
+    <string name="notification_channel_desc">Keeps Continuity Gestures active while controlling paired devices</string>
+    <string name="ongoing_connected_status">Mouse active: %1$s</string>
+    <string name="ongoing_discoverable_status">Ready to pair</string>
+    <string name="ongoing_disconnected_status">Continuity Gestures paused</string>
+    <string name="hid_sdp_name">Continuity Gestures</string>
+    <string name="hid_sdp_description">Wear OS Continuity Gestures Bluetooth Mouse &amp; Controller</string>
+    <string name="hid_sdp_provider">Continuity Gestures</string>
+    <string name="tile_label">Continuity Hosts</string>
+    <string name="tile_description">One-tap connect to your saved Continuity Gestures computers and TVs</string>
+    <string name="complication_label">Continuity Gestures</string>
+</resources>

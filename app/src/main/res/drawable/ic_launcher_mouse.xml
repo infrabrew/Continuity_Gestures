@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Clean white circular Material 3 badge -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M24,2A22,22 0 1,1 2,24A22,22 0 0,1 24,2Z" />
+    <!-- Continuity air-wave arcs -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M14.5,12.8A12.5,12.5 0,0 1,33.5 12.8"
+        android:strokeColor="#FF00ACC1"
+        android:strokeLineCap="round"
+        android:strokeWidth="2.4" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M18.2,16.2A7.8,7.8 0,0 1,29.8 16.2"
+        android:strokeColor="#FF00C853"
+        android:strokeLineCap="round"
+        android:strokeWidth="2.4" />
+    <!-- Bold Material 3 rounded mouse body -->
+    <path
+        android:fillColor="#FF00A859"
+        android:pathData="M24,18.8C18.6,18.8 15,22.4 15,27.8V30.5C15,35.9 18.6,39.5 24,39.5C29.4,39.5 33,35.9 33,30.5V27.8C33,22.4 29.4,18.8 24,18.8Z" />
+    <!-- Subtle white click seam -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M16.1,28.1H31.9"
+        android:strokeAlpha="0.34"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineCap="round"
+        android:strokeWidth="1.1" />
+    <!-- Crisp white scroll wheel pill -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M24,22A1.6,1.6 0,0 1,25.6 23.6V26.4A1.6,1.6 0,0 1,24 28A1.6,1.6 0,0 1,22.4 26.4V23.6A1.6,1.6 0,0 1,24 22Z" />
+</vector>
