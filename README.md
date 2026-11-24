@@ -1,5 +1,6 @@
 # Continuity Gestures for Wear OS
 DISCLAIMER : This was Colab with my local LLM and I.
+
 A standalone **Wear OS 3 / 4 / 5+** smartwatch app that turns your watch into a low-latency, gesture-controlled **Bluetooth HID Mouse, Keyboard, Media Controller, and Presenter**, enhanced with **9-DoF drift-free IMU tracking**, **velocity-based acceleration curves**, **hybrid air-mouse + micro-trackpad aiming**, **3D spatial gestures & custom DTW macros**, **tactile crown & side-button controls**, **dual Bluetooth + 5 GHz Wi-Fi transport**, and an optional **TouchSDK-style BLE GATT** developer stream.
 
 Move your forearm in the air to glide the cursor, pinch your thumb and index finger to click or drag, nudge the last few pixels on the watch glass, spin the crown to scroll pages, or hold the side button to roll timelines and snap desktop windows — with **zero companion software required** in Bluetooth HID mode on Windows, macOS, Linux, Android, iPadOS, and smart TVs.
