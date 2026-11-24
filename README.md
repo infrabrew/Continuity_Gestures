@@ -1,6 +1,6 @@
-# GestureMouse for Wear OS
+# Continuity Gestures for Wear OS
 
-A standalone Wear OS smartwatch app (inspired by the discontinued **WowMouse** by Doublepoint) that turns a Wear OS 3 / 4 / 5 watch into a gesture-controlled **Bluetooth HID Mouse, Keyboard, Media Controller, and Presenter**, plus an optional **TouchSDK-style BLE GATT** telemetry streamer for developers.
+A standalone Wear OS smartwatch app that turns a Wear OS 3 / 4 / 5 watch into a gesture-controlled **Bluetooth HID Mouse, Keyboard, Media Controller, and Presenter**, plus an optional **TouchSDK-style BLE GATT** telemetry streamer for developers.
 
 Move your forearm in the air to glide the cursor, pinch your thumb and index finger to click or drag, flick your wrist to scroll or navigate slides, and twist your forearm to adjust volume — with **no companion app or custom drivers required** on Windows, macOS, Linux, Android, iPadOS, or smart TVs.
 
